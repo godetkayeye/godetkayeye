@@ -1,10 +1,10 @@
-# 👋 Hi there  
+#  Hi there  
 
 I am a **Full Stack Developer** passionate about building scalable web & mobile applications and learning new technologies.  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![godefroid kayeye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godetkayeye&show_icons=true&theme=radical)  
 
@@ -12,7 +12,7 @@ I am a **Full Stack Developer** passionate about building scalable web & mobile 
 
 ---
 
-## ⚒️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
@@ -32,7 +32,7 @@ I am a **Full Stack Developer** passionate about building scalable web & mobile 
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +40,7 @@ I am a **Full Stack Developer** passionate about building scalable web & mobile 
 
 ---
 
-## 🔧 Tools & DevOps
+##  Tools & DevOps
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,4 +51,4 @@ I am a **Full Stack Developer** passionate about building scalable web & mobile 
 
 ---
 
-✨ Always learning. Always building. 🚀  
+ Always learning. Always building.  
